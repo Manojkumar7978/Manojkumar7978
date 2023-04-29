@@ -66,6 +66,7 @@ alt="😎"/>
 
 🛠 Current Stats:
 <br/>
-<br/>
-<br/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manojkumar7978&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+<br/>
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojkumar7978&show_icons=true&card_width=497px)
