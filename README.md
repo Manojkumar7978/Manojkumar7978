@@ -64,4 +64,8 @@ alt="😎"/>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" marginleft="40"/> </a> 
 </p>
 
-
+🛠 Current Stats:
+<br/>
+<br/>
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manojkumar7978&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
