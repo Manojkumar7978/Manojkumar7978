@@ -41,7 +41,7 @@ alt="😎"/>
 
 - ❓ How to reach me **manojkumarpadhyms@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1OoZ51cenFkyhmmuXcFS7RKtRYeRse7oQ/view?usp=sharing](https://drive.google.com/file/d/1OoZ51cenFkyhmmuXcFS7RKtRYeRse7oQ/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1lM_RfgE-olFCxDcdg5yKZ3f2HIJ96iAi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
