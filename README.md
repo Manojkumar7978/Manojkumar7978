@@ -21,7 +21,7 @@ I'm Manoj Kumar Padhy <img width="45px" src="https://camo.githubusercontent.com/
 alt="😎"/>
 </h1>
 <h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
-<h4>Highly adaptable and quick-learning full-stack developer, I am passionate about staying up-to-date with the latest technologies and trends. With a proven track record of effectively and efficiently adapting to changing requirements and implementing new solutions with ease, I am eager to apply my skills and expertise to contribute to the success of an organization. I am excited to work with a dynamic team and contribute to the company's growth while enhancing my skills and knowledge.</h4>
+<h4>Highly adaptable and quick-learning full-stack developer with a passion for staying up-to-date with the latest technologies and trends. A proven track record of effectively and efficiently adapting to changing requirements and implementing new solutions with ease. Seeking an opportunity to apply my skills and contribute to a dynamic team in a challenging and growth-oriented environment.Expertise in front-end technologies like JavaScript, React, HTML, and CSS. Also skilled in back-end technologies such as Node.js, Express, and MongoDB. These technology stack enables to build dynamic and responsive full-stack applications.</h4>
 </br>
 </br>
 
